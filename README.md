@@ -1,3 +1,6 @@
+# Also It is deployed on firebase
+https://airbnb-clone-c209e.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
